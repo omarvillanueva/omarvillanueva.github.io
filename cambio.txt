@@ -1,5 +1,3 @@
-<html>
 <div>
 <p>hola</p>
 </div>
-</html>
